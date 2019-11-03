@@ -39,3 +39,10 @@ Vol 7
 
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0793S4L6R&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_D.sgDbZ3SMC38" ></iframe>
 
+[In His Hands](https://www.amazon.com/His-Hands-Approach-Humility-Place/dp/109399133X)
+![In His Hands](/img/IHHsCover.jpg "Photo of book In His Hands") 
+
+
+[In His Hands](https://www.amazon.com/His-Hands-Approach-Humility-Place/dp/109399133X)
+![In His Hands](/img/IHHsCover.jpg "Photo of book In His Hands") 
+
