@@ -19,3 +19,27 @@ In 2004, the author published “Order of the Day” which succinctly explains t
 In addition, he has produced two documentaries titled “Who are the Sikhs” and “Red Waters of Amritsar”
 </h4>
 ![alt text](/img/DaljitSinghJawaPhoto.jfif "Photo of Daljit Singh Jawa")
+
+<br>
+<h4>
+Contact Me
+</h4>
+<form
+  action="https://formspree.io/mrgzrrgk"
+  method="POST">
+  Your name  &nbsp;&nbsp;&nbsp;<input type="text" name="name">
+  <br>
+  <br>
+  Your email &nbsp;&nbsp;&nbsp;<input type="email" name="_replyto">
+  <br>
+  <br>
+  Your phone number  &nbsp;&nbsp;&nbsp;<input type="text" name="phone">
+  <br>
+  <br>
+  Your message  &nbsp;&nbsp;&nbsp;
+  <textarea name="message" id="message" required="" placeholder="" maxlength="2000" rows="15" cols="80"></textarea>
+  <br>
+  <br>
+  <input type="submit" value="Send">
+</form> 
+
